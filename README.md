@@ -1,6 +1,19 @@
 <h1>Katas 2</h1>
 <h2>Introdução</h2>
 <p>O objetivo desta entrega é reutilzar funções dentro de outras funções. Usaremos a palavra-chave return para obter o resultado dentro do escopo da função.</p>
+<h2>Aviso</h2>
+<p>A partir da segunda função <strong>(multiply)</strong> não será possível utilizar os seguintes operadores matemáticos:</p>
+<ul>
+  <li>Adição(+)</li>
+  <li>Subtração(-)</li>
+  <li>Divisão(/)</li>
+  <li>Multiplicação(*)</li>
+</ul>
+<p>Ou as seguintes funções aritméticas incorporadas:</p>
+<ul>
+<li>Math min</li>
+<li>Math max</li>
+</ul>
 <h2>Tarefa</h2>
 <h3>Soma</h3>
 <p>Escreva uma função chamada add que recebe dois argumentos e retorna a soma deles.
